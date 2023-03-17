@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/sqflite/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/sqflite/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/sqflite/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/sqflite/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/sqflite/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/sqflite/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    }
+]

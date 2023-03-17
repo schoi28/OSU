@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/values-vi/values-vi.xml",
+            "map": [
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,157,257,351,479",
+                        "endColumns": "101,99,93,127,129",
+                        "endOffsets": "152,252,346,474,604"
+                    }
+                },
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "609",
+                        "endColumns": "100",
+                        "endOffsets": "705"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml",
+            "map": [
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,157,257,351,479",
+                        "endColumns": "101,99,93,127,129",
+                        "endOffsets": "152,252,346,474,604"
+                    }
+                },
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "609",
+                        "endColumns": "100",
+                        "endOffsets": "705"
+                    }
+                }
+            ]
+        }
+    ]
+}

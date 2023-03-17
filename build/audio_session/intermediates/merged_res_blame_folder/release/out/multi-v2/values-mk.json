@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,259,354,483",
+                        "endColumns": "103,99,94,128,135",
+                        "endOffsets": "154,254,349,478,614"
+                    }
+                },
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "619",
+                        "endColumns": "100",
+                        "endOffsets": "715"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,259,354,483",
+                        "endColumns": "103,99,94,128,135",
+                        "endOffsets": "154,254,349,478,614"
+                    }
+                },
+                {
+                    "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "619",
+                        "endColumns": "100",
+                        "endOffsets": "715"
+                    }
+                }
+            ]
+        }
+    ]
+}

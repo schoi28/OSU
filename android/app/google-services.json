@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "163654811288",
+    "project_id": "language-app-64476",
+    "storage_bucket": "language-app-64476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163654811288:android:e9a9517776644b7e711aed",
+        "android_client_info": {
+          "package_name": "com.flutterflow.CrowdedVoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163654811288-tl3qia156imlum79hfl7sd40uhupgc38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.CrowdedVoice",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "163654811288-iu248o5nb8rlmm7t0qarogqdtaeg4a1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTtkTXlC6Fmldt2tNJxC65-nWP61V9TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163654811288-iu248o5nb8rlmm7t0qarogqdtaeg4a1c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "163654811288-2feqq3eftptaqbbp4rfeki7f587jluen.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.languageApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163654811288:android:c1089586ee77a6cd711aed",
+        "android_client_info": {
+          "package_name": "com.mycompany.crowdedvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163654811288-duhtbtn65ulg98jbq715c48cpj0t14u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.crowdedvoice",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "163654811288-iu248o5nb8rlmm7t0qarogqdtaeg4a1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTtkTXlC6Fmldt2tNJxC65-nWP61V9TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163654811288-iu248o5nb8rlmm7t0qarogqdtaeg4a1c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "163654811288-2feqq3eftptaqbbp4rfeki7f587jluen.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.languageApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163654811288:android:e09c50684bfa53de711aed",
+        "android_client_info": {
+          "package_name": "com.soyoon.language_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163654811288-q33jtpj12dt67hit261q49te30bncj8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soyoon.language_app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "163654811288-iu248o5nb8rlmm7t0qarogqdtaeg4a1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTtkTXlC6Fmldt2tNJxC65-nWP61V9TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163654811288-iu248o5nb8rlmm7t0qarogqdtaeg4a1c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "163654811288-2feqq3eftptaqbbp4rfeki7f587jluen.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.languageApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

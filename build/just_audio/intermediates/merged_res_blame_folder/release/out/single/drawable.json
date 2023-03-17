@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/just_audio/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/8b4ea7afe70d7d93430ceec3d5e96c2b/transformed/core-1.7.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/just_audio/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/8b4ea7afe70d7d93430ceec3d5e96c2b/transformed/core-1.7.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/just_audio/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/8b4ea7afe70d7d93430ceec3d5e96c2b/transformed/core-1.7.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/just_audio/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/8b4ea7afe70d7d93430ceec3d5e96c2b/transformed/core-1.7.0/res/drawable/notification_icon_background.xml"
+    }
+]

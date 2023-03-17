@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_pause.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/drawable-hdpi-v4/media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_next.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_play.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/drawable-hdpi-v4/media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_music_note.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/drawable-hdpi-v4/media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_previous.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/c70d4eb127946e4c015cb6aa6b3b422c/transformed/jetified-media2-session-1.2.0/res/drawable-hdpi-v4/media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/audio_session/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

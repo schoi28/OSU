@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/1032a5bf6e0baf428daf70b43b80885c/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/1032a5bf6e0baf428daf70b43b80885c/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

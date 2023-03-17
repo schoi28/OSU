@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/1032a5bf6e0baf428daf70b43b80885c/transformed/appcompat-1.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/1032a5bf6e0baf428daf70b43b80885c/transformed/appcompat-1.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/1032a5bf6e0baf428daf70b43b80885c/transformed/appcompat-1.2.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/1032a5bf6e0baf428daf70b43b80885c/transformed/appcompat-1.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/1032a5bf6e0baf428daf70b43b80885c/transformed/appcompat-1.2.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/soyoonchoi/Desktop/crowded_voice/build/flutter_sound/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/soyoonchoi/.gradle/caches/transforms-3/6edb26cd3b1d1c74caeb088525ff5e36/transformed/core-1.6.0/res/drawable-v21/notification_action_background.xml"
+    }
+]
